@@ -16,7 +16,9 @@ export const theme: CustomTheme = createMuiTheme({
       },
       contained: {
         color: "white",
-        boxShadow: "0px 2px 20px #00000029"
+        boxShadow: "0px 2px 20px #00000029",
+        MarginLeft: "20px",
+        MarginRight: "20px"
       },
       label: {
         textTransform: "none"
